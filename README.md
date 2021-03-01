@@ -22,3 +22,6 @@ bnma
 5. Run JUVR, and make sure that the JUVR window is selected/in focus
 (Coin button may not work, spam 2 before going into vr)
 6. Enjoy JUVR
+
+#### Motion Capture
+This has support to use LIV for motion capture
