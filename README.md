@@ -1,6 +1,6 @@
 # JUVR
 
-#### Arcade acurate controller too expensive? Try this!
+#### Arcade accurate controller too expensive? Try this!
 
 Requirements:
 ```
@@ -22,4 +22,3 @@ bnma
 5. Run JUVR, and make sure that the JUVR window is selected/in focus
 (Coin button may not work, spam 2 before going into vr)
 6. Enjoy JUVR
-
