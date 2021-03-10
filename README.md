@@ -12,7 +12,7 @@ SteamVR
 SETUP:
 1. Open spicecfg and set controls to 
 ```
-Coin:2
+Coin:2 (confirmed not working)
 5678 
 ghjk 
 bnma
