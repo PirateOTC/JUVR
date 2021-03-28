@@ -11,7 +11,7 @@ public class HelloTest : MonoBehaviour
         // Build an input simulator instance
         InputSimulator inputSimulator = new InputSimulator();
         // Then call the keyboard key down method, pass in the enum virtual key code you want to press
-        inputSimulator.Keyboard.KeyDown(WindowsInput.Native.VirtualKeyCode.VK_6);
+        inputSimulator.Keyboard.KeyDown(WindowsInput.Native.VirtualKeyCode.VK_2);
     }
 
     public void OnCustomButtonPress()
