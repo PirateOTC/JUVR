@@ -26,7 +26,7 @@ bnma
 #### Motion Capture
 This has support to use LIV for motion capture
 
-### Light Support is Coming soon!
+### Light Support is in Testing!
 Please have the following ready/installed for the release!
 ```
 Spicetools (with python api folder)
