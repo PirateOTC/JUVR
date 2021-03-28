@@ -26,13 +26,18 @@ bnma
 #### Motion Capture
 This has support to use LIV for motion capture
 
-### Light Support is in Testing!
-Please have the following ready/installed for the release!
+### Light Support is READY!
+Please have the following ready/installed
 ```
 Spicetools (with python api folder)
 Python 3.0
 ```
 
-More instructions Coming soon!
+How to use
+```
+add spiceapi python folder contents to JUVR install folder
+run lighting.py after starting data
+```
+PLEASE REPORT BUGS YOU HAVE!!!
 
 ### Special Thanks to Devrim for helping with this project 
