@@ -34,3 +34,5 @@ Python 3.0
 ```
 
 More instructions Coming soon!
+
+### Special Thanks to Devrim for helping with this project 
