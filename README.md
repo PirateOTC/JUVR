@@ -43,4 +43,5 @@ PLEASE REPORT BUGS YOU HAVE!!!
 ### Special Thanks to Devrim for helping with this project 
 
 
+## Please Note
 This project is in no way affiliated with Konami, Bemani, or Jubeat in any way and is completely non profit. Do not use this commercially. 
