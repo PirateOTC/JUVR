@@ -40,7 +40,7 @@ run lighting.py after starting data
 ```
 PLEASE REPORT BUGS YOU HAVE!!!
 
-### Special Thanks to Devrim for helping with this project 
+### Special Thanks to _ for helping with this project 
 
 
 ## Please Note
