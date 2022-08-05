@@ -2,6 +2,8 @@
 
 #### VERY IMPORTANT UPDATE, MALWARE FOUND IN com.unity.modules.vr, DO NOT USE ANY PRE BUILT VERSIONS OF THIS PROGRAM AND REMOVE THIS BEFORE BUILDING
 
+#### Honestly the code i made is pretty shit, id reccomend forking it and optimising it before use
+
 #### Arcade accurate controller too expensive? Try this!
 
 Requirements:
