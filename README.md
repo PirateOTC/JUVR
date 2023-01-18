@@ -1,6 +1,6 @@
 # JUVR
 
-#### VERY IMPORTANT UPDATE, MALWARE FOUND IN com.unity.modules.vr, DO NOT USE ANY PRE BUILT VERSIONS OF THIS PROGRAM AND REMOVE THIS BEFORE BUILDING
+#### VERY IMPORTANT UPDATE, com.unity.modules.vr is kinda sus according to github so do with that what you will
 
 #### Honestly the code i made is pretty shit, id reccomend forking it and optimising it before use
 
